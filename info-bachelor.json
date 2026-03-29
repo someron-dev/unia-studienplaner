@@ -1,0 +1,75 @@
+{
+    "name": "Bachelorstudiengang Informatik",
+    "version": "23.05.2018",
+    "totalECTS": 180,
+    "moduleGroups": [
+        {
+            "name": "Informatik-Grundlagen",
+            "ects": 95
+        },
+        {
+            "name": "Mathematische Grundlagen C",
+            "ects": 13
+        },
+        {
+            "name": "Mathematische Grundlagen A",
+            "ects": 8
+        },
+        {
+            "name": "Mathematische Grundlagen B",
+            "ects": 8
+        },
+        {
+            "name": "Nebenfach Geographie A",
+            "ects": 18
+        },
+        {
+            "name": "Nebenfach Geographie B",
+            "ects": 18
+        },
+        {
+            "name": "Nebenfach Geographie C",
+            "ects": 12
+        },
+        {
+            "name": "Nebenfach Philosophie A",
+            "ects": 22
+        },
+        {
+            "name": "Nebenfach Philosophie B",
+            "ects": 8
+        },
+        {
+            "name": "Informatik-Vertiefung A",
+            "ects": 24
+        },
+        {
+            "name": "Informatik-Vertiefung B",
+            "ects": 6
+        },
+        {
+            "name": "Informatik-Wahlbereich",
+            "ects": 10
+        },
+        {
+            "name": "Seminar",
+            "ects": 4
+        },
+        {
+            "name": "Nebenfach Mathematik",
+            "ects": 30
+        },
+        {
+            "name": "Nebenfach Physik",
+            "ects": 30
+        },
+        {
+            "name": " Nebenfach Informationsorientierte Betriebswirtschaftslehre",
+            "ects": 30
+        },
+        {
+            "name": "Abschlussleistung",
+            "ects": 12
+        }
+    ]
+}
